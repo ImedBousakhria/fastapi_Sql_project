@@ -1,0 +1,2 @@
+import aima.
+print(aima)
